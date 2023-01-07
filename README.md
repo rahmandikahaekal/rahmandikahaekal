@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rahmandika Haekal
 - 👀 I’m interested in Web Front End Developer
-- 🌱 I’m currently learning how to being android developer
+- 🌱 I’m currently learning how to being a good developer
 - 📫 Can reach me in rahmandikahaekal31@gmail.com
 <!--
 - 💞️ I’m looking to collaborate on ...
