@@ -71,6 +71,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ## 📈 My Github Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahmandikahaekal&show_icons=true&locale=en&layout=compact" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahmandikahaekal&show_icons=true&locale=en&layout=compact" alt="rahmandikahaekal" />
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rahmandikahaekal&show_icons=true&locale=en" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rahmandikahaekal&show_icons=true&locale=en" alt="rahmandikahaekal" />
