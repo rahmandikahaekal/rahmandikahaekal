@@ -65,4 +65,4 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ## 📈 My Github Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rahmandikahaekal&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://camo.githubusercontent.com/2fe567ca87f308ce70c7dfadf6147d4c1a16762909aedf9d8fa5cb858f6649b6/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d7261686d616e64696b616861656b616c2673686f775f69636f6e733d74727565267468656d653d676f7468616d" alt="abhisheknaiidu" />
