@@ -27,11 +27,17 @@
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
+<code><img height="20" width="20" src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"></code>
+<code><img height="20" src="https://bestofjs.org/logos/vuetify.svg"></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+
 
 ## :phone: Contact Me
 
@@ -65,4 +71,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ## 📈 My Github Stats
 
-<p align="center"> <img src="https://camo.githubusercontent.com/2fe567ca87f308ce70c7dfadf6147d4c1a16762909aedf9d8fa5cb858f6649b6/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d7261686d616e64696b616861656b616c2673686f775f69636f6e733d74727565267468656d653d676f7468616d" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahmandikahaekal&show_icons=true&locale=en&layout=compact" alt="abhisheknaiidu" />
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rahmandikahaekal&show_icons=true&locale=en" alt="abhisheknaiidu" />
