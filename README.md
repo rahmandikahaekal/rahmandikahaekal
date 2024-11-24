@@ -1,5 +1,9 @@
 [![Greetings SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=24F709&background=000000&center=true&multiline=true&random=false&width=800&height=120&lines=Hello+there!;My+Name+is+Haekal%2C+Front+end+Web;Welcome+to+my+README)]()
 
+<br>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@TREKSAURUS/9ece30b7-7157-4b56-ae43-16d56cae7480.png" /></a>
+<br><br>
+
 ![visitors](https://vbr.wocr.tk/badge?page_id=rahmandikahaekal.rahmandikahaekal&color=00cf00)
 
 ## :book: About Me
