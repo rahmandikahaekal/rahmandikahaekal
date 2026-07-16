@@ -1,5 +1,11 @@
 <p align="center">
-  <img alt="Rahmandika Haekal - Front End Web Developer" width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=24F709&background=000000&center=true&vCenter=true&multiline=true&random=false&width=1000&height=180&lines=Hello+there!;I+am+Rahmandika+Haekal;Front+End+Web+Developer">
+  <picture>
+    <source media="(max-width: 760px) and (prefers-color-scheme: dark)" srcset="./assets/hero/agent-console-v5-mobile-dark.svg">
+    <source media="(max-width: 760px)" srcset="./assets/hero/agent-console-v5-mobile-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero/agent-console-v5-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/hero/agent-console-v5-light.svg">
+    <img src="./assets/hero/agent-console-v5-dark.svg" alt="Rahmandika Haekal - Front End Web Developer" width="100%">
+  </picture>
 </p>
 
 <p align="center">
