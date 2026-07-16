@@ -18,7 +18,7 @@
 
 I am **Rahmandika Haekal**, a front end web developer focused on building practical, clean, and user-friendly web interfaces.
 
-I work mostly around modern JavaScript ecosystems, especially **Vue**, **Nuxt**, and dashboard or company profile projects. I also use Ubuntu for development and daily work, and I am part of the **QODR community**, a Muslim youth programming community.
+I work mostly around modern JavaScript ecosystems, especially **Vue**, **Nuxt**, and dashboard or company profile projects. I also use Ubuntu for development and daily work, and I am a Muslim youth programming community.
 
 ## Current Focus
 
@@ -61,21 +61,7 @@ My current direction is to keep improving as a web developer, build more real pr
   <img alt="Linux" src="https://img.shields.io/badge/Linux-1E293B?style=flat-square&logo=linux&logoColor=FACC15">
 </p>
 
-## GitHub Stats
-
-<p align="center">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahmandikahaekal&show_icons=true&locale=en&layout=compact">
-</p>
-
-<p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rahmandikahaekal&show_icons=true&locale=en">
-</p>
-
 ## Contact
-
-<p>
-  <img align="right" alt="Rahmandika Haekal" width="260" src="./assets/profile1.png">
-</p>
 
 If you want to reach out about web projects, frontend development, collaboration, or just to talk, you can contact me here:
 
