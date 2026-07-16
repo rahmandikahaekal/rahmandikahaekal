@@ -74,7 +74,7 @@ My current direction is to keep improving as a web developer, build more real pr
 ## Contact
 
 <p>
-  <img align="right" alt="Contact GIF" width="360" src="./assets/93195.gif">
+  <img align="right" alt="Rahmandika Haekal" width="260" src="./assets/profile1.png">
 </p>
 
 If you want to reach out about web projects, frontend development, collaboration, or just to talk, you can contact me here:
