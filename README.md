@@ -1,80 +1,85 @@
-[![Greetings SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=24F709&background=000000&center=true&multiline=true&random=false&width=800&height=120&lines=Hello+there!;My+Name+is+Haekal%2C+Front+end+Web;Welcome+to+my+README)]()
+<p align="center">
+  <img alt="Rahmandika Haekal - Front End Web Developer" width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=24F709&background=000000&center=true&vCenter=true&multiline=true&random=false&width=1000&height=180&lines=Hello+there!;I+am+Rahmandika+Haekal;Front+End+Web+Developer">
+</p>
 
-<br>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@TREKSAURUS/9ece30b7-7157-4b56-ae43-16d56cae7480.png" /></a>
-<br><br>
+<p align="center">
+  <a href="https://github.com/rahmandikahaekal"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-rahmandikahaekal-0B1220?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/rahmandikahaekal/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rahmandika%20Haekal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:rahmandikahaekal31@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rahmandikahaekal31%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
-![visitors](https://vbr.wocr.tk/badge?page_id=rahmandikahaekal.rahmandikahaekal&color=00cf00)
+## About Me
 
-## :book: About Me
-- 👨‍💻 Front end Web Developer with bold ideas
-- 🎓 Studying Software Enggineering 𝚊𝚝 𝚝𝚑𝚎 Indonesian Letris Vocational School 2, 𝚐𝚛𝚊𝚍𝚞𝚊𝚝𝚒𝚗𝚐 July 2016
-- 👥 Part of QODR community (Muslim youth programming community)
-- by the way i use ubuntu for developing eather web or just daily activities [<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://ubuntu.com/)
+I am **Rahmandika Haekal**, a front end web developer focused on building practical, clean, and user-friendly web interfaces.
 
-## ⬆ What I'm up to
-- 🔨 I'm currently...
-```yaml
-- Developing web company profile and charity for several short project
-- Improve your skills in programming web or dashboard with Nuxt and Vue!
-```
-🎯 In the near future, I plan too...
-- 📌 One day I hope too..
-	- Go Skydiving, 7 Summits and have a hiking community!
-	- Have a programming team for my own startup
-	- Have a framework of Javascript and CSS / SCSS
-<!-- - 🤔 𝙻𝚒𝚜𝚝 𝚘𝚏 𝚒𝚜𝚜𝚞𝚎𝚜 𝙸 𝚗𝚎𝚎𝚍 𝚑𝚎𝚕𝚙 𝚠𝚒𝚝𝚑:
-	- [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛/𝚒𝚜𝚜𝚞𝚎𝚜/𝟷𝟹𝟼](https://github.com/Raymo111/i3lock-color/issues/136)
-	- [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛/𝚒𝚜𝚜𝚞𝚎𝚜/𝟷𝟻𝟿](https://github.com/Raymo111/i3lock-color/issues/159) -->
+I work mostly around modern JavaScript ecosystems, especially **Vue**, **Nuxt**, and dashboard or company profile projects. I also use Ubuntu for development and daily work, and I am part of the **QODR community**, a Muslim youth programming community.
 
-**languages and tools:**  
+## Current Focus
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></code>
-<code><img height="20" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
-<code><img height="20" width="20" src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"></code>
-<code><img height="20" src="https://bestofjs.org/logos/vuetify.svg"></code>
-<code><img height="20" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"></code>
-<code><img height="20" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
-<code><img height="20" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+| Area | What I am exploring |
+| --- | --- |
+| **Front End Development** | Building responsive websites, dashboards, and reusable user interface patterns. |
+| **Vue & Nuxt** | Improving application structure, component design, routing, and frontend performance. |
+| **Company Profiles** | Creating clean web presentations for brands, organizations, and charity projects. |
+| **Developer Workflow** | Working comfortably with Linux, Git, Figma, and modern web tooling. |
 
+## Featured Work
 
-## :phone: Contact Me
+| Work | Focus | Why it matters |
+| --- | --- | --- |
+| **Company Profile Websites** | Business and organization landing pages | Helps teams present their identity, services, and contact flow clearly on the web. |
+| **Charity Web Projects** | Campaign and donation-oriented interfaces | Supports short-term social projects with accessible and focused web experiences. |
+| **Dashboard Interfaces** | Admin and operational UI | Turns data and workflows into interfaces that are easier to scan, manage, and maintain. |
+| **Frontend Experiments** | Vue, Nuxt, CSS, and SCSS | Strengthens implementation skill through direct practice with modern frontend stacks. |
+
+## Direction
+
+I am interested in frontend systems that are simple to use, easy to maintain, and clear for the people who depend on them.
+
+My current direction is to keep improving as a web developer, build more real projects, and grow toward creating my own programming team, JavaScript framework ideas, and CSS or SCSS tooling.
+
+## Tech Stack
 
 <p>
- </br>
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-1E293B?style=flat-square&logo=html5&logoColor=F97316">
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-1E293B?style=flat-square&logo=css3&logoColor=38BDF8">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-1E293B?style=flat-square&logo=javascript&logoColor=FACC15">
+  <img alt="Sass" src="https://img.shields.io/badge/Sass-1E293B?style=flat-square&logo=sass&logoColor=F472B6">
+  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-1E293B?style=flat-square&logo=vuedotjs&logoColor=22C55E">
+  <img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-1E293B?style=flat-square&logo=nuxtdotjs&logoColor=00DC82">
+  <img alt="Vuetify" src="https://img.shields.io/badge/Vuetify-1E293B?style=flat-square&logo=vuetify&logoColor=60A5FA">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-1E293B?style=flat-square&logo=tailwindcss&logoColor=38BDF8">
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-1E293B?style=flat-square&logo=bootstrap&logoColor=A78BFA">
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-1E293B?style=flat-square&logo=figma&logoColor=F24E1E">
+  <img alt="Git" src="https://img.shields.io/badge/Git-1E293B?style=flat-square&logo=git&logoColor=F97316">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-1E293B?style=flat-square&logo=linux&logoColor=FACC15">
+</p>
 
-<img hight="320" width="450" align="right" alt="GIF" src="./assets/93195.gif">
+## GitHub Stats
 
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+<p align="center">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahmandikahaekal&show_icons=true&locale=en&layout=compact">
+</p>
 
-<a href="mailto:rahmandikahaekal31@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="./assets/gmail.png" />
-</a>
-<a href="https://www.linkedin.com/in/rahmandikahaekal/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="./assets/linkedin.png" />
-</br>
-</br>
-</br>
-</a>
- </p>
- 
+<p align="center">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rahmandikahaekal&show_icons=true&locale=en">
+</p>
 
-</br>
-</br>
-</br>
-</br>
+## Contact
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+<p>
+  <img align="right" alt="Contact GIF" width="360" src="./assets/93195.gif">
+</p>
 
-<a href="https://www.buymeacoffee.com/mrhaekal" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+If you want to reach out about web projects, frontend development, collaboration, or just to talk, you can contact me here:
 
-## 📈 My Github Stats
+<p>
+  <a href="mailto:rahmandikahaekal31@gmail.com"><img alt="Gmail" width="130" src="./assets/gmail.png"></a>
+  <a href="https://www.linkedin.com/in/rahmandikahaekal/"><img alt="LinkedIn" width="150" src="./assets/linkedin.png"></a>
+</p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahmandikahaekal&show_icons=true&locale=en&layout=compact" alt="rahmandikahaekal" />
+---
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rahmandikahaekal&show_icons=true&locale=en" alt="rahmandikahaekal" />
+<p align="center">
+  Building practical web interfaces with Vue, Nuxt, and modern frontend tools.
+</p>
